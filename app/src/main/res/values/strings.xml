@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Not-So-Simple-Rock-Paper-Scissors</string>
+    <string name="scissors">Ножницы</string>
+    <string name="rock">Камень</string>
+    <string name="paper">Бумага</string>
+    <string name="you_chose">Кожаный мешок выбрал:</string>
+    <string name="computer_chose">Машина выбрала:</string>
+    <string name="result">Результат:</string>
+    <string name="you_win">Кожаный мешок победил!</string>
+    <string name="computer_win">Победила машина</string>
+    <string name="draw">Ничья</string>
+    <string name="back">Назад</string>
+</resources>
