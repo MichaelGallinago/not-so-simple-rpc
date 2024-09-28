@@ -1,1 +1,1 @@
-# not-so-simple-rpc
+# not-so-simple-rock-paper-scissors
