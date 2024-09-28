@@ -1,4 +1,4 @@
-package ru.sug4chy.homework2109
+package net.micg.lab1
 
 import org.junit.Test
 

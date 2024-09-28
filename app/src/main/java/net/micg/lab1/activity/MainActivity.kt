@@ -1,4 +1,4 @@
-package ru.sug4chy.homework2109.activity
+package net.micg.lab1.activity
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,9 +6,9 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import ru.sug4chy.homework2109.R
-import ru.sug4chy.homework2109.extensions.findButtonById
-import ru.sug4chy.homework2109.model.Shape
+import net.micg.lab1.R
+import net.micg.lab1.extensions.findButtonById
+import net.micg.lab1.model.Shape
 
 class MainActivity : AppCompatActivity() {
     private val rockPaperScissorsVariantsTypedArray = Shape.entries.toTypedArray()

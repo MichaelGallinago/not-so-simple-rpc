@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.sug4chy.homework2109"
+    namespace = "net.micg.lab1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.sug4chy.homework2109"
+        applicationId = "net.micg.lab1"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

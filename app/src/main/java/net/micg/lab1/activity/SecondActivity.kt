@@ -1,14 +1,14 @@
-package ru.sug4chy.homework2109.activity
+package net.micg.lab1.activity
 
 import android.os.Bundle
 import android.widget.VideoView
 import androidx.appcompat.app.AppCompatActivity
-import ru.sug4chy.homework2109.R
-import ru.sug4chy.homework2109.extensions.findButtonById
-import ru.sug4chy.homework2109.extensions.findTextViewById
-import ru.sug4chy.homework2109.model.Result
-import ru.sug4chy.homework2109.model.Shape
-import ru.sug4chy.homework2109.utils.RockPaperScissors
+import net.micg.lab1.R
+import net.micg.lab1.extensions.findButtonById
+import net.micg.lab1.extensions.findTextViewById
+import net.micg.lab1.model.Result
+import net.micg.lab1.model.Shape
+import net.micg.lab1.utils.RockPaperScissors
 
 class SecondActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

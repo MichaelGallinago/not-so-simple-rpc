@@ -1,7 +1,7 @@
-package ru.sug4chy.homework2109.utils
+package net.micg.lab1.utils
 
-import ru.sug4chy.homework2109.model.Shape
-import ru.sug4chy.homework2109.model.Result
+import net.micg.lab1.model.Shape
+import net.micg.lab1.model.Result
 
 object RockPaperScissors {
 

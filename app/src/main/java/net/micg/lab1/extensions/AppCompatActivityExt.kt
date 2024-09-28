@@ -1,4 +1,4 @@
-package ru.sug4chy.homework2109.extensions
+package net.micg.lab1.extensions
 
 import android.widget.Button
 import android.widget.TextView

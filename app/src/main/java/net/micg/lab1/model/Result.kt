@@ -1,6 +1,6 @@
-package ru.sug4chy.homework2109.model
+package net.micg.lab1.model
 
-import ru.sug4chy.homework2109.R
+import net.micg.lab1.R
 
 enum class Result(val resourceStringId: Int) {
     PLAYER_WIN(R.string.you_win),
